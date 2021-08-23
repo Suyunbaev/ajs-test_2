@@ -2,7 +2,7 @@
   "name": "ajs-test_2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "build": "webpack --mode production",
     "test": "jest --coverage",
